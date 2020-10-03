@@ -1,6 +1,7 @@
-### Hi, welcome to [my world](http://1613.ml).
 
-<!--
+### Hello, welcome to [my world](http://1613.ml).
+
+<!-- 
 **gmm-z/gmm-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=gmm-z)
-
-
+<!--Github Stats-->
+![iMing's github stats](https://github-readme-stats.vercel.app/api?username=gmm-z&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!--end of Github Stats-->
