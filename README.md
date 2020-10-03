@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 -->
 
 <!--Github Stats-->
+<!--
+This github stats card's color is amazing, but it is not suitable for the github pages.
+
 ![iMing's github stats](https://github-readme-stats.vercel.app/api?username=gmm-z&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+-->
+
+![iMing's github stats](https://github-readme-stats.vercel.app/api?username=gmm-z&show_icons=true&include_all_commits=true)
+
 <!--end of Github Stats-->
