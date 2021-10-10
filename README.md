@@ -1,5 +1,5 @@
 
-### Hello, welcome to [my world](https://imingx.com).
+### Hello, welcome to [my world](https://www.ming.ac).
 
 <!-- 
 **gmm-z/gmm-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
