@@ -68,6 +68,5 @@ This github stats card's color is amazing, but it is not suitable for the github
 
 
 <!--end of Github Stats-->
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="28%" align="right">
+<em align='left'><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
