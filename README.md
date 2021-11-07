@@ -1,7 +1,7 @@
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="22%" align="right">
+<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="200px" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em><img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080447642.gif" width="50">
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="15%" align="right">
+<!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="100px" align="right"> -->
 
 - <em>An undergraduate student.  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"></em>
 - <em> Introverted & diffident. </em>
