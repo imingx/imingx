@@ -36,7 +36,7 @@ const ming = {
     code: ["C&C++", "Python", "Java", "Swift"],
     tools: ["JetBrains suite", "Jupyter"],
     architecture: "Nothing",
-    funFact: "Nothing",
+    
     goal: "Do my own and keep shining. Be a pessimistic far traveler"
 };
 ```
@@ -68,4 +68,6 @@ This github stats card's color is amazing, but it is not suitable for the github
 
 
 <!--end of Github Stats-->
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="30%">
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="28%" align="right">
