@@ -4,7 +4,7 @@
   </samp>
 </p>
  -->
- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072218240.gif" width="23%" align="right">
+ <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080038105.gif" width="20%" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>✨.</em>
 
@@ -68,4 +68,4 @@ This github stats card's color is amazing, but it is not suitable for the github
 
 
 <!--end of Github Stats-->
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="30%">
+<!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="30%"> -->
