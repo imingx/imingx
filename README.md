@@ -5,7 +5,7 @@
 - <em>An undergraduate student.  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"></em>
 - <em> Introverted & diffident. </em>
 
-### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...  
+### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="40"> A little more about me...  
 
 
 <!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
@@ -59,4 +59,4 @@ This github stats card's color is amazing, but it is not suitable for the github
 
 <!--end of Github Stats-->
 <!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="28%" align="right"> -->
-<em align='left'><b>Nevertheless, I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em align='left'>Nevertheless, <b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
