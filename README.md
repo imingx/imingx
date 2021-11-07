@@ -1,5 +1,5 @@
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="22%" align="right">
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="22%" align="right">
+<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="20%" align="right">
+<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="20%" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em><img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080447642.gif" width="50">
 
