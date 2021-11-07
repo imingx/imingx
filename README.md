@@ -36,7 +36,7 @@ const ming = {
     code: ["C&C++", "Python", "Java", "Swift"],
     tools: ["JetBrains suite", "Jupyter"],
     architecture: "Nothing",
-    
+    interest: "Nothing",
     goal: "Do my own and keep shining. Be a pessimistic far traveler"
 };
 ```
