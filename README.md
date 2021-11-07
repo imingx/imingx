@@ -3,7 +3,7 @@
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>✨.</em>
 
 - <em>An undergraduate student.  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"></em>
-- <em> Introvert. </em>
+- <em> Introverted & diffident. </em>
 
 ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...  
 
