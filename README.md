@@ -4,7 +4,7 @@
   </samp>
 </p>
  -->
- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072218240.gif" width="20%" align="right">
+ <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072218240.gif" width="23%" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>✨.</em>
 
