@@ -1,10 +1,4 @@
-<!-- <p align="left">
-  <samp>
-     <br>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>✨.</br>
-  </samp>
-</p>
- -->
- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="22%" align="right">
+<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="22%" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>✨.</em>
 
@@ -14,10 +8,8 @@
 ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...  
 
 
-<!--     askMeAbout: ["web dev", "tech", "app dev", "photography"], -->
 <!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
 <!--     currentFocus: "Ios Mobile App Development", -->
-<!--     funFact: "There are two ways to write error-free programs; only the third one works" -->
 <!--     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express", "SuiteScript"],
@@ -40,7 +32,6 @@ const ming = {
     goal: "Do my own and keep shining. Be a pessimistic far traveler"
 };
 ```
-
 
 <!-- 
 **gmm-z/gmm-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,7 +57,6 @@ This github stats card's color is amazing, but it is not suitable for the github
 
 <!-- ![iMing's github stats](https://github-readme-stats.vercel.app/api?username=imingx&show_icons=true&include_all_commits=true) -->
 
-
 <!--end of Github Stats-->
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="28%" align="right">
+<!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="28%" align="right"> -->
 <em align='left'><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
