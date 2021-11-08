@@ -6,7 +6,8 @@
 - <em>An undergraduate student.  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"></em>
 - <em> Introverted & diffident. </em>
 
-### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...  
+<!-- ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...   -->
+### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111090114759.gif" width="50"> A little more about me...  
 
 
 <!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
