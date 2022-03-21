@@ -3,7 +3,8 @@
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em><img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080447642.gif" width="50">
 <!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="100px" align="right"> -->
 
-- <em>An undergraduate student.  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"></em>
+- <em>An undergraduate student. </em>
+<!--  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"> -->
 - <em> Introverted & diffident. </em>
 
 <!-- ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...   -->
