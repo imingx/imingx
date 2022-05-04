@@ -1,6 +1,7 @@
-<img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080047138.gif" width="200px" align="right">
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205050142180.png" width="200px" align="right">
 
-## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em><img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080447642.gif" width="50">
+## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em><img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205050143018.png" width="50">
+
 <!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="100px" align="right"> -->
 
 - <em>An undergraduate student. </em>
@@ -8,7 +9,7 @@
 - <em> Introverted & diffident. </em>
 
 <!-- ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...   -->
-### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111090114759.gif" width="50"> A little more about me...  
+### <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205050143677.png" width="50"> A little more about me...  
 
 
 <!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
