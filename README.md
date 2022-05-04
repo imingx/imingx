@@ -32,7 +32,7 @@
 const ming = {
     pronouns: "He" | "Him",
     code: ["C&C++", "Python", "Java", "Swift"],
-    tools: ["JetBrains suite", "Jupyter"],
+    tools: ["JetBrains suite", "Jupyter", "VSCode"],
     architecture: "Nothing",
     interest: "Nothing",
     goal: "Do my own and keep shining. Be a pessimistic far traveler"
@@ -40,7 +40,7 @@ const ming = {
 ```
 
 <!-- 
-**gmm-z/gmm-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imingx/imingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
