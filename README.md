@@ -1,6 +1,11 @@
-<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif" width="200px" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em>
+
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif" width="50%" align="right">
+
+<img src="https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white-d0c9fe2af5.png">
+
+
 <!-- <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080447642.gif" width="50"> -->
 
 <!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080453188.gif" width="100px" align="right"> -->
@@ -11,6 +16,7 @@
 <!--  <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072323629.gif" width="30"> -->
 
 <!-- ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...   -->
+
 ### <img src="https://gitlab.com/imingx/picgo/-/raw/main/2022/202111090114759.gif" width="50"> A little more about me...  
 
 
@@ -65,4 +71,5 @@ This github stats card's color is amazing, but it is not suitable for the github
 
 <!--end of Github Stats-->
 <!-- <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111080020115.gif" width="28%" align="right"> -->
+
 <em align='left'>Nevertheless, <b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
