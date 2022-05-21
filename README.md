@@ -1,11 +1,6 @@
-<!-- <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif"  align="right" width="200px"> -->
-
-<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205151507296.png" align="right" width="40%">
-<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif" align="right" width="40%">
-
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif" width="200px" align="right">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em>
-
 
 <!-- <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080447642.gif" width="50"> -->
 
