@@ -1,10 +1,6 @@
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif"  align="right" width="200px">
 
 ## <em>Hi, I'm gmm. Welcome to my fantasy <a href="https://www.ming.ac">world</a>.</em>
-
-<!-- <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080047138.gif"  align="right">
-   -->
- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-
 
 
 <!-- <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202111080447642.gif" width="50"> -->
@@ -19,7 +15,7 @@
 
 <!-- ### <img src="https://gitee.com/imingx/picgo/raw/master/2021/202111072324242.gif" width="50"> A little more about me...   -->
 
-### A little more about me...  
+### <img src="https://gitlab.com/imingx/picgo/-/raw/main/2022/202111090114759.gif" width="50"> A little more about me...  
 
 
 <!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
