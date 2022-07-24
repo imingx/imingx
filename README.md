@@ -33,7 +33,6 @@
     
 ```javascript
 const ming = {
-    pronouns: "He" | "Him",
     code: ["C&C++", "Python", "Java", "Swift"],
     tools: ["JetBrains suite", "Jupyter", "VSCode"],
     architecture: "Nothing",
